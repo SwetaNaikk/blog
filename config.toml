@@ -1,4 +1,4 @@
-baseURL = "http://localhost"
+baseURL = "http://swetanaikk.github.io/blog/"
 languageCode = "en-us"
 title = "Welcome to Sweta Blog"
 theme = "aether"
