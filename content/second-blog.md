@@ -1,5 +1,5 @@
 ---
-title: "Secound Blog"
+title: "Second Blog"
 date: 2022-11-14T16:52:59+05:30
 ---
 
